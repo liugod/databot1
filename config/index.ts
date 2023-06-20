@@ -1,11 +1,11 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = '92e9b11f-a03e-46be-bfa7-b05c691ded71'
-export const API_KEY = 'app-BJqUQPY0w1aCTwWzWJ1eI160'
+export const APP_ID = '73ea12a1-cf5c-4201-ab23-12bd7ee0cc74'
+export const API_KEY = 'app-2VElbLZdqJw7gBJ9494VkK19'
 
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
-  "title": 'web3老baby',
-  "description": '请问我defi问题',
+  "title": 'Ordinal大师',
+  "description": '请问我各种Ordinal问题',
   "copyright": 'AIxChain',
   "privacy_policy": '',
   "default_language": 'zh-Hans'
